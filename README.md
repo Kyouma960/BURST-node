@@ -13,3 +13,4 @@ Amending of the rate of decrease of TRST token per transfer, or the formula for 
 Inspiration:
 NANO
 TEZOS
+CIRCLES UBI
