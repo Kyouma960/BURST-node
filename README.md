@@ -1,4 +1,4 @@
-Why should I care about BURST at all?
+#Why should I care about BURST at all?
 BURST holds the vision of a better future for everyone, free from the mass-poverty of a Post-AI world.
 
 The world we live in today is failing many of us. The system is set up in a way that makes the rich get richer, while the rest of us get left behind. It’s an economic model built on hoarding and centralization, and it’s broken.
